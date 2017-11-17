@@ -1,6 +1,6 @@
 {
   "name": "tencent-cloud-defend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tencent cloud defend sdk",
   "main": "index.js",
   "license": "MIT",
@@ -20,5 +20,7 @@
   "scripts": {
     "build": "tsc -w",
     "test": "mocha -r ./node_modules/ts-node/register test/**/*.ts"
-  }
+  },
+  "repository": "https://github.com/xialeistudio/node-tencent-cloud-defend.git",
+  "author": "xialeistudio <xialeistudio@gmail.com>"
 }
