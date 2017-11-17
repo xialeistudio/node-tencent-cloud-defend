@@ -1,6 +1,6 @@
 {
   "name": "tencent-cloud-defend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tencent cloud defend sdk",
   "main": "index.js",
   "license": "MIT",
